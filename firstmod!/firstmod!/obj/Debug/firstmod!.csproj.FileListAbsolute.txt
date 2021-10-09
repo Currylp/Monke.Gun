@@ -1,0 +1,2 @@
+C:\Users\mousa\OneDrive\Desktop\firstmod!\firstmod!\obj\Debug\firstmod!.csproj.AssemblyReference.cache
+C:\Users\mousa\OneDrive\Desktop\firstmod!\firstmod!\obj\Debug\firstmod!.csproj.CoreCompileInputs.cache
